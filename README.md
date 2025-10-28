@@ -120,7 +120,7 @@ venv/Scripts/activate  # Windows
 pip install -r requirements.txt
 
 # Start MCP Server
-python dentist_mcp_server.py
+python whatsapp_bridge_server.py
 
 # Start Bridge Server
 python dentist_bridge_server.py
