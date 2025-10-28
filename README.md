@@ -75,7 +75,8 @@ Dentist-Appointment-System/
 │
 ├── backend/
 │   ├── dentist_bridge_server.py     # FastAPI API Gateway
-│   ├── dentist_mcp_server.py        # MCP Tools + DB Handler
+│   ├── dentist_mcp_server.py
+    ├── whatsapp_bridge_server.py  
 │   ├── requirements.txt
 │   ├── .env
 │   └── venv/
